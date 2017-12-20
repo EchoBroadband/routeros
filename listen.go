@@ -3,7 +3,7 @@ package routeros
 import (
 	"fmt"
 
-	"gopkg.in/routeros.v2/proto"
+	"github.com/EchoBroadband/routeros/proto"
 )
 
 // ListenReply is the struct returned by the Listen*() functions.

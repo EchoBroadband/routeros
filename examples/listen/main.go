@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/routeros.v2"
+	"github.com/EchoBroadband/routeros"
 )
 
 var (

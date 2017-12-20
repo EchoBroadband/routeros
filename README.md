@@ -7,8 +7,8 @@ Look in the examples directory to learn how to use this library:
 [listen](examples/listen/main.go),
 [tab](examples/tab/main.go).
 
-API documentation is available at [godoc.org](http://godoc.org/gopkg.in/routeros.v2).
+API documentation is available at [godoc.org](http://godoc.org/github.com/EchoBroadband/routeros).
 
 To install it, run:
 
-    go get gopkg.in/routeros.v2
+    go get github.com/EchoBroadband/routeros
